@@ -11,6 +11,5 @@ This portfolio contains a collection of my data science and analytical projects 
 
 # Project 2: exchange rates and trade
 
-
 # Project 3: Predicting the results of Premier League football games
 
