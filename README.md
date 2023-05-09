@@ -7,6 +7,8 @@ This portfolio contains a collection of my data science and analytical projects 
 * Employed data visualisation techniques to graphically display trading signals and help users follow the trading strategies.
 * Tested the performance of my strategies across a range of securities from different asset classes and over different time periods and market cycles.
 
+![](https://github.com/lucelsby/Luc-Portfolio/blob/main/images/trend_following.png)
+
 # Project 2: exchange rates and trade
 
 
