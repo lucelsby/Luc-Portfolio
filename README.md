@@ -1,3 +1,5 @@
+remote_theme: minima
+
 # Luc-Portfolio
 This portfolio contains a collection of my data science and analytical projects ranging from web scraping to machine learning and quantitative finance.
 
@@ -14,4 +16,3 @@ This portfolio contains a collection of my data science and analytical projects 
 
 # Project 3: Predicting the results of Premier League football games
 
-remote_theme: minima
