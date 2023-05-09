@@ -1,4 +1,4 @@
-# Luc-Portfolio
+# Luc's Data Science Portfolio
 This portfolio contains a collection of my data science and analytical projects ranging from web scraping to machine learning and quantitative finance.
 
 # [Project 1: Can simple trend-following trading strategies outperform the buy and hold strategy?](https://github.com/lucelsby/simple_trend_following.git)
